@@ -65,6 +65,7 @@ footer {
 .main-index {
     display: flex;
     align-items: center;
+    
 }
 
 .main-index .index-text {
@@ -80,7 +81,7 @@ footer {
 }
 
 
-.buttonnav{                       /*What allows the logo + menu to be aligned */
+.buttonnav{                       
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -89,7 +90,7 @@ footer {
     
 }
 
-.menuNav2 {                                 /*Color + size of the text */
+.menuNav2 {                                 
     display: block;
     width: 100px;
     text-align: center;
@@ -103,7 +104,7 @@ footer {
     border-color: white;
 }
 
-.menuNav2:hover {                                /* Color + size of the text */
+.menuNav2:hover {                               
     transform: scale(1.1); 
 
 }
@@ -122,4 +123,17 @@ footer {
 
 
 /* CSS for 2016 suuuiii */
+
+
+.freebase01 {
+    display: flex; 
+    /* align-items: center; */
+    flex-direction: row;
+}
+
+
+.freebase01-img {
+    width: 15vw;
+    margin-right: 10px;
+}
 
