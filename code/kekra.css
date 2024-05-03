@@ -2,12 +2,32 @@ body {
     font-family: "League Spartan";
     margin: 0;
     padding: 0;
+    /* background-image: url("..//images/background.avif"); */
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
     
 }
 
 main {
     font-family: 'Montserrat';
     margin-left: 25px;
+    
+}
+
+.button-to-header {
+    position: fixed;
+    margin-left: 95%;
+    margin-top: 15%;
+    display: block;
+    border-radius: 25px;
+
+}
+
+.button-header {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 5vw;
+    color: black;
 }
 
 
@@ -135,5 +155,9 @@ footer {
 .freebase01-img {
     width: 15vw;
     margin-right: 10px;
+}
+
+.ul2016 {
+    color: black;
 }
 
