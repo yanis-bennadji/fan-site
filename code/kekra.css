@@ -161,3 +161,18 @@ footer {
     color: black;
 }
 
+
+.menuNav3 {                                 
+    display: block;
+    width: 100px;
+    text-align: center;
+    padding: 8px;
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border-radius: 40px;
+    transition: all 0.3s ease;
+    border-color: white;
+    margin: auto;
+}
