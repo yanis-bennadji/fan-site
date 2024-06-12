@@ -10,47 +10,9 @@
 
 </head>
 <body>
-    <header>
-        <nav>
-            <a id="top" href="index.html" >
-                <img src="..//images/kekra-logo-arabe.png" alt="kekra-logo-arabe" class="logoArabeH">
-            </a>
-            
-            <a class="menuNav" href="https://kekra.store/">
-                Boutique
-            </a>
-
-            <a class="menuNav" href="2016.html">
-                2015-16
-            </a>
-
-            <a class="menuNav" href="2017.html">
-                2017
-            </a>
-
-            <a class="menuNav" href="2018.html">
-                2018
-            </a>
-
-            <a class="menuNav" href="2019.html">
-                2019
-            </a>
-
-            <a class="menuNav" href="2020.html">
-                2020
-            </a>
-
-            <a class="menuNav" href="2021.html">
-                2021
-            </a>
-
-            <a class="menuNav" href="2023.html">
-                2023
-            </a>
-
-    
-        </nav>
-    </header>
+<?php 
+    include('./_Header.php');
+    ?>
 
     <main>
         <h1>2015-16 : Début de carrière</h1>

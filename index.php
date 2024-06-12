@@ -4,53 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fansite Kekra</title>
-    <link rel="stylesheet" href="kekra.css">
+    <link rel="stylesheet" href="./code/kekra.css">
     <link href='https://fonts.googleapis.com/css?family=League Spartan' rel='stylesheet'>
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 
 </head>
 <body>
-    <header>
-        <nav>
-            <a href="index.html" >
-                <img id="top" src="..//images/kekra-logo-arabe.png" alt="kekra-logo-arabe" class="logoArabeH">
-            </a>
-            
-            <a class="menuNav" href="https://kekra.store/">
-                Boutique
-            </a>
 
-            <a class="menuNav" href="2016.html">
-                2015-16
-            </a>
-
-            <a class="menuNav" href="2017.html">
-                2017
-            </a>
-
-            <a class="menuNav" href="2018.html">
-                2018
-            </a>
-
-            <a class="menuNav" href="2019.html">
-                2019
-            </a>
-
-            <a class="menuNav" href="2020.html">
-                2020
-            </a>
-
-            <a class="menuNav" href="2021.html">
-                2021
-            </a>
-
-            <a class="menuNav" href="2023.html">
-                2023
-            </a>
-
-    
-        </nav>
-    </header>
+    <?php 
+    include('./code/_Header-index.php');
+    ?>
 
     <main>
 
@@ -71,7 +34,7 @@
             </div>
 
             <div class="fleximg-index">
-                <img class="kekra-index" src="..//images/kekra-tete-rouge.jpg" alt="kekra-tete-rouge">
+                <img class="kekra-index" src="./images/kekra-tete-rouge.jpg" alt="kekra-tete-rouge">
             </div>
         </section>
         <h2>Discographie :</h2>
@@ -80,31 +43,31 @@
             </p>
 
         <section class="buttonnav">
-            <a class="menuNav2" href="2016.html">
+            <a class="menuNav2" href="2016.php">
                 2015-16
             </a>
 
-            <a class="menuNav2" href="2017.html">
+            <a class="menuNav2" href="2017.php">
                 2017
             </a>
 
-            <a class="menuNav2" href="2018.html">
+            <a class="menuNav2" href="2018.php">
                 2018
             </a>
 
-            <a class="menuNav2" href="2019.html">
+            <a class="menuNav2" href="2019.php">
                 2019
             </a>
 
-            <a class="menuNav2" href="2020.html">
+            <a class="menuNav2" href="2020.php">
                 2020
             </a>
 
-            <a class="menuNav2" href="2021.html">
+            <a class="menuNav2" href="2021.php">
                 2021
             </a>
 
-            <a class="menuNav2" href="2023.html">
+            <a class="menuNav2" href="2023.php">
                 2023
             </a>
 

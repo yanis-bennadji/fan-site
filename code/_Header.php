@@ -12,54 +12,49 @@
 <body>
     <header>
         <nav>
-            <a href="index.html" >
-                <img src="..//images/kekra-logo-arabe.png" alt="kekra-logo-arabe" class="logoArabeH">
+            <a href="../index.php" >
+                <img id="top" src="../images/kekra-logo-arabe.png" alt="kekra-logo-arabe" class="logoArabeH">
             </a>
             
             <a class="menuNav" href="https://kekra.store/">
                 Boutique
             </a>
 
-            <a class="menuNav" href="2016.html">
-                2016
+            <a class="menuNav" href="./2016.php
+            ">
+                2015-16
             </a>
 
-            <a class="menuNav" href="2017.html">
+            <a class="menuNav" href="./2017.php
+            ">
                 2017
             </a>
 
-            <a class="menuNav" href="2018.html">
+            <a class="menuNav" href="./2018.php
+            ">
                 2018
             </a>
 
-            <a class="menuNav" href="2019.html">
+            <a class="menuNav" href="./2019.php
+            ">
                 2019
             </a>
 
-            <a class="menuNav" href="2020.html">
+            <a class="menuNav" href="./2020.php
+            ">
                 2020
             </a>
 
-            <a class="menuNav" href="2021.html">
+            <a class="menuNav" href="./2021.php
+            ">
                 2021
             </a>
 
-            <a class="menuNav" href="2023.html">
+            <a class="menuNav" href="./2023.php
+            ">
                 2023
             </a>
 
     
         </nav>
     </header>
-
-    <main>
-
-        <h1>En cours.</h1>
-
-    </main>
-
-    <footer>
-        <img class="logoVRL" src="..//images/vrl-logo.png" alt="vrl-logo">
-    </footer>
-
-</body>
